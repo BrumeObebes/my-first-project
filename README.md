@@ -1,3 +1,3 @@
-# This is a REDME file.
+# This is a README file.
 
 Thsi is a sample project
